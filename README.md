@@ -1,1 +1,1 @@
-# Research-Paper--Fake-News-Detection
+# Research Paper-Fake-News-Detection
