@@ -1,1 +1,3 @@
-# Research Paper-Fake-News-Detection
+# REASEARCH PAPER - SOCIAL MEDIA FAKE NEWS DETECTION
+
+Developed a Python-based framework leveraging Flask to conduct an in-depth examination of a dataset obtained from Kaggle, specifically targeting the identification of fake news. The framework involved preprocessing the dataset to enhance its suitability for analysis. Utilized two prominent machine learning algorithms, Support Vector Machine (SVM) and Logistic Regression, to construct and optimize predictive models tailored for the classification of fake news. This process included feature selection, parameter tuning, and model evaluation to ensure robust performance. Introduce more advanced feature engineering techniques such as TF-IDF (Term Frequency-Inverse Document Frequency) or word embeddings (e.g., Word2Vec or GloVe) to capture semantic relationships between words, potentially improving the model's discriminatory power.
